@@ -1,4 +1,4 @@
-# Laravel 11 Filament 全域搜尋和資料表查詢記錄檔
+# Laravel 12 Filament 全域搜尋和資料表查詢記錄檔
 
 Filament 全域搜尋和資料表查詢記錄檔採用快速建立簡捷的 TALL（Tailwind CSS、Alpine.js、Laravel 和 Livewire）堆疊應用程式的工具組，分析搜尋資料，您就能掌握有關使用者意向的重要分析數據。每次使用者搜尋時，選用的關鍵字都會透露出他們的需求。
 
@@ -27,8 +27,8 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/iHj4QZA.gif)
+![](https://i.imgur.com/REfq3wz.gif)
 > 輕鬆瞭解使用者感興趣的內容，並掌握更多潛在需求
 
-![](https://i.imgur.com/EDlQPGp.png)
+![](https://i.imgur.com/6EDfnbO.png)
 > 搜尋記錄檔紀錄搜尋時輸入的字詞和搜尋次數
